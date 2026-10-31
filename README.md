@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm a Computer Science Engineering graduate with hands-on programming skills in Python and SQL, and experience in statistical modeling and building data-driven, risk-detection systems. My projects cover fraud detection, streaming data pipelines, and LLM systems that check their own answers and are benchmarked against simpler baselines. I like working with numbers: finding the pattern, testing it, and checking whether it holds up on new data.
+I’m a Computer Science Engineering graduate building AI systems end to end, from retrieval-augmented generation and research agents to fraud and medical-imaging models, plus streaming data pipelines built on Spark and Delta Lake. I care about whether they actually work, so I test them against baselines and benchmarks. 
 
 ## projects
 
