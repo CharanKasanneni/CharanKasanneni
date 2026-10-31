@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=200&text=Charan%20Kasanneni&animation=scaleIn&fontColor=ffffff&section=header" alt="Charan Kasanneni" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=200&text=Charan%20Kasanneni&animation=fadeIn&fontColor=ffffff&section=header" alt="Charan Kasanneni" width="100%">
 </p>
 
 <!--<p align="center">
