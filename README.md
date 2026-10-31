@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CharanKasanneni/CharanKasanneni/main/assets/banner.svg" alt="Charan Kasanneni" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=200&text=Charan%20Kasanneni&animation=fadeIn&fontColor=ffffff&section=header" alt="Charan Kasanneni" width="100%">
 </p>
 
 <!--<p align="center">
@@ -71,16 +71,16 @@ I'm a Computer Science Engineering graduate with hands-on programming skills in 
 
 <table>
   <tr>
-    <td width="62%" valign="middle">
+    <td width="70%" valign="middle">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CharanKasanneni/CharanKasanneni/output/github-contribution-grid-snake-dark.svg">
         <img alt="Contribution graph" src="https://raw.githubusercontent.com/CharanKasanneni/CharanKasanneni/output/github-contribution-grid-snake.svg" width="100%">
       </picture>
     </td>
-    <td width="38%" valign="middle">
+    <td width="30%" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CharanKasanneni&amp;hide_border=true&amp;background=0D1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc&amp;sideLabels=8b949e&amp;dates=8b949e">
-        <img alt="Total contributions and streaks" src="https://streak-stats.demolab.com?user=CharanKasanneni&amp;hide_border=true&amp;ring=1f6feb&amp;fire=1f6feb&amp;currStreakLabel=1f6feb&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;sideLabels=57606a&amp;dates=57606a" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CharanKasanneni&amp;hide_border=true&amp;background=0D1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc&amp;sideLabels=8b949e&amp;dates=8b949e&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;card_width=250">
+        <img alt="Total contributions" src="https://streak-stats.demolab.com?user=CharanKasanneni&amp;hide_border=true&amp;ring=1f6feb&amp;fire=1f6feb&amp;currStreakLabel=1f6feb&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;sideLabels=57606a&amp;dates=57606a&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;card_width=250" width="100%">
       </picture>
     </td>
   </tr>
