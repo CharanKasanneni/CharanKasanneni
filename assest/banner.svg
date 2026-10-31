@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-labelledby="t">
+  <title id="t">Charan Kasanneni</title>
+  <style>
+    .name {
+      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      font-size: 68px;
+      font-weight: 600;
+      fill: #ffffff;
+      text-anchor: middle;
+      animation: fadein 5s ease-out infinite;
+    }
+    @keyframes fadein {
+      0%   { opacity: 0; }
+      30%  { opacity: 1; }
+      85%  { opacity: 1; }
+      100% { opacity: 0; }
+    }
+  </style>
+  <path fill="#1f6feb" d="M0 0 H1200 V178 C1100 214 1000 142 900 178 S700 214 600 178 S400 142 300 178 S100 214 0 178 Z"/>
+  <text class="name" x="600" y="112">Charan Kasanneni</text>
+</svg>
