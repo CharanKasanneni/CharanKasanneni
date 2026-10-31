@@ -5,10 +5,10 @@
   building data-driven systems that detect risk.
 </p>
 
-<!--//<p align="center">
- // <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  //<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-//</p> -->
+<!--<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+/</p> -->
 
 ---
 
@@ -46,6 +46,6 @@ I'm a Computer Science Engineering graduate with hands-on programming skills in 
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/CharanKasanneni/CharanKasanneni/output/github-contribution-grid-snake.svg">
 </picture>
 
-//## Reach me
+<!--## Reach me
 
-//[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · [Email](mailto:YOUR-EMAIL@example.com)
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · [Email](mailto:YOUR-EMAIL@example.com) -->
