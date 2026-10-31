@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=200&text=Charan%20Kasanneni&animation=fadeIn&fontColor=ffffff&section=header" alt="Charan Kasanneni" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=200&text=Charan%20Kasanneni&animation=scaleIn&fontColor=ffffff&section=header" alt="Charan Kasanneni" width="100%">
 </p>
 
 <!--<p align="center">
@@ -13,7 +13,7 @@
 
 I'm a Computer Science Engineering graduate with hands-on programming skills in Python and SQL, and experience in statistical modeling and building data-driven, risk-detection systems. My projects cover fraud detection, streaming data pipelines, and LLM systems that check their own answers and are benchmarked against simpler baselines. I like working with numbers: finding the pattern, testing it, and checking whether it holds up on new data.
 
-## Pinned projects
+## projects
 
 <table>
   <tr>
